@@ -17,7 +17,7 @@
 - Containerized the full data and training pipeline with Docker to ensure cross-platform reproducibility.
 - **Tech:** Python, Scikit-Learn, Docker, MLOps
 
-#### 👗 [Wardrobe.AI](https://github.com/xiaojian1202/wardrobe-ai)
+#### 👗 [Wardrobe.AI](https://github.com/xiaojian1202/wardrobe.ai)
 *A multi-modal Generative AI wardrobe cataloger and active learning pipeline designed for digital collection management.*
 - Engineered a FastAPI and React lifecycle featuring a RESTful batch-processing endpoint and an interactive user-in-the-loop Verification Queue.
 - Implemented a prompt-injection feedback system that dynamically tracks user corrections, stores them via SQLAlchemy, and feeds them back into the LLM context to build a personalized extraction vocabulary over time.
