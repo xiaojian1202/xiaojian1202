@@ -4,8 +4,9 @@
 
 ### 🛠️ Core Tech Stack
 
-- **Languages:** Python, C++, JavaScript, TypeScript
-- **Web Development:** Next.js, React, Tailwind CSS
+- **Languages:** Python, C++, JavaScript
+- **Frontend:** `React`, `Vite`, `Tailwind CSS`
+- **Backend** `FastAPI`, `REST APIs`
 
 ---
 
