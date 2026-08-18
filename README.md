@@ -1,4 +1,6 @@
-# Hi, I'm Xiao 👋
+# Hi There! 👋
+
+I'm Xiao, an aspiring software engineer based in the San Francisco Bay Area.
 
 ---
 
