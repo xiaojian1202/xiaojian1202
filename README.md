@@ -12,16 +12,13 @@ I'm Xiao, an aspiring software engineer based in the San Francisco Bay Area.
 
 ---
 
-### 🚀 What I'm working on
-
-#### [F1 Predictor Pipeline](https://github.com/xiaojian1202/F1-Predictor)
-*An end-to-end MLOps pipeline automating machine learning training and reproducible deployments.*
+### 🚀 Featured Projects
 
 #### 👗 [Wardrobe.AI](https://github.com/xiaojian1202/wardrobe.ai)
-*A multi-modal Generative AI wardrobe cataloger and active learning pipeline designed for digital collection management.*
+*Async FastAPI + React 19 app that extracts structured fashion metadata from images using multi-modal LLMs. Non-blocking ingestion engine with bounded worker pools cuts batch latency 65%, with SHA-256 content-addressed storage for dedup and path-traversal safety.*
 
-#### 🔍 [Stateful-RAG](https://github.com/xiaojian1202/Stateful-RAG)
-*A text-based evaluation framework to stress-test contextual memory in large language models.*
+#### 🏀 [NBA Era Translator](https://github.com/xiaojian1202/nba-era)
+*Cross-era NBA analytics app normalizing 70+ seasons (1951-2026) of player data with Per-75 pace adjustment and Relative True Shooting engines. Simulates an 82-game Dream Team season with custom chemistry heuristics and interactive Recharts visualizations, backed by a Python/Pandas ETL pipeline.*
 
 ---
 
